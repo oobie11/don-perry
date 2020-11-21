@@ -1,8 +1,8 @@
 ---
 date: '2019-09-08 21:08 -0700'
 author: Don Perry
-featured: true
-published: false
+featured: false
+published: true
 title: 'TERRY STAFFORD: Amarillo By Morning: A Look Back'
 ---
 In 1962, a young singer from Amarillo,Texas walked into Bob Summers' recording studio in El Monte, CA.  Terry Stafford brought in a song called "Suspicion" from the Elvis Presley album, "Pot Luck".  Using recording techniques he had learned from his brother in law, Les Paul, Bob played all the instruments on the track and even sang in the background group.  When Terry walked out with that finished record, I don't know if Bob thought he would ever see him again...and he almost didn't.  
