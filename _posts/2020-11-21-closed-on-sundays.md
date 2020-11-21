@@ -1,0 +1,19 @@
+---
+date: '2016-10-08 09:04 -0700'
+author: Don Perry
+featured: true
+published: true
+title: Closed on Sundays
+---
+My wife, Linda, runs Carmel Coffee House & Roasting Company on Ocean Avenue in the heart of the commercial district in beautiful Carmel By The Sea. People come from all over to enjoy this fabulous city.  Needless to say, the weekends are extremely busy.  I picked her up after work this past Sunday and we noticed that one store on the next block was closed.  Linda thought it was odd that they would be closed on one of the busiest tourist days of the week.  For me, since I've written my book, I've noticed that even an insignificant event such as this brings back a rash of memories.
+
+In my youth, Sundays were special.  It was a "day of rest".  Stores were closed, families went to church, visited relatives and gathered around of table to share a meal and "catch up".  Family was always a safe place...a place where you were free to be you...where you didn't have to impress anyone.  In our Italian family there was no such thing as a "close" friend.  If you were close, you became family.
+I always knew that Sunday/family connection was special, but I never dreamed that it would form the foundation for success in both my personal and professional life.
+
+When I arrived in Hollywood to try and make it as a singer/songwriter, I was overwhelmed at how big it all was.  There was so much talent, so much success, and so few opportunities to meet the "right people".  What I learned was that it was actually a small town and you just had to keep doing what you loved.  Anyone you worked with could in fact be the "right" people.  For me it began with one person...a fellow struggling singer and first roommate...Tom Culver.  Tom introduced me to Jesse Hodges, a singer/songwriter and record producer who was working with Tom as a vocal coach.  It didn't take me long working with Jesse to know I didn't really have the talent to make it as a singer but we really hit it off and when he bought Hollywood Sound Recorders, he offered me a job.  I became his first mixer...he became a close friend and mentor.  I recorded and mixed projects off and on at Hollywood Sound for over 25 years.  I didn't realize it at the time but Tom and Jesse had become the first members of my L.A family.
+
+From there the circle gradually grew.  I met Bob Summers through Jesse.  Bob arranged some sessions for him.  That was the beginning of my 30 year relationship with Bob.  He composed, arranged and co-produced 100s of sessions with me over those years.  He became an honorary Perry brother....followed with people like Andy Belling, Ken Johnson,Willy Nelson, Chuck Sellier, Thom Pace, Smitty Price and a core group of singers, writers and musicians that were always my first call over all those years.  They always came through for me and sessions with them always felt like a family get together.
+
+Ironically, my real brother Bill followed me a year later and became one of the best studio bass and guitar players in the business.  He was followed by my brother Tom, who took my place at Hollywood Sound when I went out on my own and eventually ran out of wall space for all the gold and platinum records he mixed.  Finally, my youngest brother John joined us and carved out a career as a drummer.  Some of my best moments were on projects that we all worked on together.  
+
+Those years were special.  Not many people get to do what they would do for nothing for thirty years.  Not many people get to live their dream.  But as I look back on those special moments and all the record and film projects that I worked on the memory of the great work with those incredibly talented people fades into the background...but the friendships and the feeling of working with family is still vivid and warms my heart to this day.  The world changes at such an accelerated pace....but maybe it still wouldn't be such a bad idea to be closed on Sunday.
