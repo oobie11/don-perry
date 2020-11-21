@@ -1,0 +1,25 @@
+---
+date: '2019-02-08 21:23 -0700'
+author: Don Perry
+featured: true
+published: true
+title: 'The Pioneers of Rock and Roll Part 1: Les Paul'
+---
+Les Paul is one of a handful of artists with a permanent, stand alone exhibit in the Rock and Roll Hall of Fame. Inducted in 1988 with these opening words, 
+"You can't talk guitars without Les Paul. More accurately, you can't talk about even recording music without Les Paul.  The lifelong innovator created echo delay, overdubbing, multi tracking and more.  You can't overstate Les Paul's genius".  He's the only person in the Rock and Roll Hall of Fame and The National Inventors Hall of Fame...and yet too few know of the contributions of this true pioneer.  
+
+Paul was Born on June 9, 1915, and by the age of 8 began playing Harmonica.  After trying piano, he switched to guitar.  During that time he invented a neck warn harmonica holder which allowed him to play harmonica hands free while he played guitar.  It is still manufactured today using his basic design and has been used by generations of country, folk and rock artists who followed.
+
+By the age of 13, he was performing semi-professionally as a country singer, guitarist and harmonica player.  While playing drive ins and roadhouses, he began his first experiments with sound.  Wanting to make himself heard by more people at those venues, he wired a phonograph needle and connected it to a radio speaker, using that to amplify his acoustic guitar.  At 17, he dropped out of high school and joined Sunny Joe Wolverton's radio band in St. Louis on KMOX...and the rest, as they say, is history.
+
+In 1941, Les believed he could improve upon the common amplified guitar. The experiments in his apartment nearly cost him his life due to electrocution.  It took him nearly two years to recuperate.  His initial success was essentially a wooden board with a guitar neck he called "the log".  It was the first solid body guitar.  He approached Gibson that year with his design but it took ten years and Leo Fender's introduction in 1948 of his solid body, Fender "Broadcaster", for Gibson to give the go ahead to develop the legendary Les Paul Gibson.  Artists from Freddie King to Keith Richards to Eric Clapton to Paul McCartney and more used this most popular and best selling guitar.  It's fair to say that rock and roll as we know it would not exist without his invention.
+
+In the 1940's, Paul was unhappy with the way his records sounded.  He began experimenting with new sounds.  He put his sound into a record with Bing Crosby.  That recording with the Les Paul Trio, "It's Been A Long, Long Time" was a number one single for Crosby in 1945.  Bing encouraged Paul to build his own studio where he could produce the sound he wanted.  Les built that studio in the garage of his home in North Hollywood (the house and studio still stand today although it was moved to Pasadena after Paul sold the house).  
+
+In 1948, Capital Records released the first of these experiments with the release of "Lover, When You're Near Me" featuring Les playing eight different parts and introducing the concept of "overdubbing".  To understand this breakthrough it's helpful to understand that recording in the early days involved everyone in one room, singer and musicians, doing a take in it's entirety directly to acetate disc.  Any error required doing the entire take over.  Les accomplished overdubbing by recording to one disc and then playing along and recording to another.  It's said that to achieve the results he wanted, he had gone through 500 discs.  In 1949, Bing Crosby gave Les one of the first Ampex reel to reel tape recorders.  From that point on he made true recording history.  He installed an additional playback head that allowed true "sound on sound" recording.  Ultimately, he designed the first 8 track machine, marketed by Ampex and delivered to him in 1957.  Modern recording began with Les Paul.
+
+In 1949, Les married country singer/guitarist, Iris Colleen Summers.  She became better known under stage name, Mary Ford. Together the duo made history on Capital Records with their "new sound".  From their first hit in 1950, "Tennessee Waltz", followed by the #1 "How High The Moon"... through 1954, they logged 16 Top 10 hits and 13 more in the Top 20...and in all, a phenomenal 37 chart records.  Following their divorce, Les continued playing and performing well into his nineties.
+
+Over his lifetime, the rock world finally recognized his true contributions... but the magnitude of his impact as a musician whose drive to improve the state of music and recorded sound... can simply never be overstated.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkGf1GHAxhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
