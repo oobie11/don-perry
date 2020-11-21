@@ -1,0 +1,101 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Don Perry
+email: socialdonperry@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  For over 25 years Don Perry Music Company was one of the most successful music production and publishing companies in Los Angeles. In the 70's Don began to promote concerts and showcased some of the nations' best talent, including: Stevie Wonder, Earth,Wind and Fire, The Jackson Five, Cheech and Chong, The Temptations, The O'Jays, Rick Nelson, Linda Rondstadt, Gladys Knight and more.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://new.donperry.net" # the base hostname & protocol for your site, e.g. http://example.com
+author: "Don Perry"
+twitter:
+  username: donperry
+  card: summary
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "" 
+      type: "pages"
+    values:
+      layout: "default"
+
+prose:
+  siteurl: "https://www.donperry.net"
+  media: "assets/images"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"
+      - name: "date"
+        field:
+          label: "Post Date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "Author"
+          element: "text"
+          value: "Don Perry"
+      - name: "summary"
+        field:
+          element: "textarea"
+          label: "Summary"
+      - name: "featured"
+        field:
+          element: "button"
+          label: "featured?"
+          on: "true"
+          off: "false"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

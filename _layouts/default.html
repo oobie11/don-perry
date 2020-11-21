@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{{site.title}} - {{page.title}}</title>
+
+    <!-- Custom CSS -->
+    <link href="{{'assets/css/main.css' | relative_url}}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <!-- jQuery -->
+    <script src="{{'assets/js/jquery.js' | relative_url}}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{'assets/js/bootstrap.min.js' | relative_url}}"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{'assets/js/jquery.easing.min.js' | relative_url}}"></script>
+
+
+    <!-- Custom Theme JavaScript -->
+    <script src="{{'assets/js/grayscale.js' | relative_url}}"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" class="{% if page.url == '/' %}front{%endif%}" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    {% include navigation.html %}
+
+    {{content}}
+    
+    {% include footer.html %}
+
+
+</body>
+
+</html>

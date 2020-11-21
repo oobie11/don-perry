@@ -1,0 +1,41 @@
+---
+layout: default
+title: page.title
+---
+<div class="post">
+    <header class="jumbotron blog-header" style="background-image: url({{'assets/images/post-bg.jpg' | relative_url}})">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	                <div class="post-heading">
+	                    <h1>{{page.title}}</h1>
+	                    <h2 class="subheading">{{page.subtitle}}</h2>
+	                    <span class="meta">Posted by <a href="#">{{page.author}}</a> on {{ page.date | date: '%B %d, %Y' }}</span>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</header>
+	<!-- Post Content -->
+	<article>
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-content">
+	                {{content}}
+	                <script type="text/javascript">
+	                    $(document).ready(function(){
+	                        $(".post-content img").addClass("img-responsive");
+	                    });
+	                </script>
+	            </div>
+	            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	                <ul class="pager">
+	                    <li class="previous">
+	                        <a href="{% link blog.html %}">&larr; Back to Posts</a>
+	                    </li>
+	                </ul>
+	            </div>
+	        </div>
+	    </div>
+	</article>
+</div>
