@@ -1,0 +1,17 @@
+---
+date: '2018-04-11 21:45 -0700'
+author: Don Perry
+featured: true
+published: true
+title: 'I''ve Got the Music in Me: Magic Moments: Part 1'
+---
+One thing I found to be true in all my years in the music business was that most people I met were experts in their field...and music, too.  I can't tell you how many times I heard advice like this: "Why don't you just find a group like The Beatles?"  Wow!  Why didn't I think of that?  It would have eliminated a lot of struggles.  Those same people would not have given career advice to a doctor, a lawyer or even an Indian chief...but I do understand it.
+
+Music is personal.  It's emotional.  It underscores the most important events in our lives.  It speaks to us and as long as we're listening, we're communicating.  In this cyber world, it may be our last way to personally connect to each other.  Certain songs will immediately take you back to special times, special events and special people.  Those songs recall our past, enhance our present and give us hope for the future.  It's amazing when you hear one of these special songs how you can relive in a few minutes those magical moments that helped shape your life.  In this series of blogs I'd like to share a few of those moments in my life and the music that helped form the magic.
+
+When I was ten years old, I joined the San Francisco Boys Club.  It was a great place to hang out.  You could play all the usual sports, but the big draw was the boxing ring.  Most of the kids were older and stronger and I took my share of lumps in that ring.  Since I couldn't beat anyone up, I convinced my cousin Frank to join and I beat him up every day.  It didn't start out that way.  We were just supposed to "spar", but it somehow always escalated.
+
+One day, I saw a flyer for auditions for acts to perform at the Veterans Hospital.  Frank agreed to join me.  He probably would have agreed to anything to stop the beatings.  His younger brother George joined us, filling out the trio.  It wasn't easy to find a song.  A trio of 8-10 year old kids would have a hard time covering some of the great artists on the charts in 1951.  Artists like:  Tony Bennett, Nat King Cole, Perry Como, Frankie Laine and Les Paul and Mary Ford were pretty hard to keep up with.  There was one "sing-a-long" type of song by Guy Mitchell (who would later have one of the first "Rock-a-Billy" hits, "Singin' The Blues") that we thought we could "nail".  We rehearsed "My Truly Truly Fair", auditioned and got the job.
+
+None of us had ever performed before an audience but when we went on stage, the adrenaline kicked in and we gave the performance of our young lives.  How did we do?  I would say miraculous.  Some of those veterans arrived in wheelchairs and I swear, by the time we finished our song, got out of those chairs and walked out.  Two elderly ladies that worked at the hospital did tell us we were cute and should keep singing.  It was too late to save me.  The damage was done and I knew that I needed to have a career in show business.  Thirteen years later, Frank and I set out from San Francisco to Hollywood to seek fame and fortune as singers.  So, if you feel at times that I bombard you with blogs and tales of the business and plugs to buy my book...don't blame me...blame the San Francisco Boys Club, Guy Mitchell and the two little old ladies at the Veterans Hospital.  Most of all, blame "My Truly Truly Fair" for triggering that magic moment.
+
