@@ -49,6 +49,10 @@ defaults:
 prose:
   siteurl: "https://www.donperry.net"
   media: "assets/images"
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
     _posts:
       - name: "title"
