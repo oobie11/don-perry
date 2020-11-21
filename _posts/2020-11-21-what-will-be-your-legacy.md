@@ -5,7 +5,7 @@ featured: true
 published: true
 title: What Will Be Your Legacy?
 ---
-## t took me almost four years to write my book.
+## It took me almost four years to write my book.
 
 It would have been a whole lot easier to recount nearly 30 years in the business if I had kept a journal.  Fortunately, there are organizations such as IMDB (International Movie Data Base) where I was able to go and find a record of nearly every movie I was involved with and I was able to reconnect with people I worked with over the years who sparked memories of those years.  There were times when I thought I would never finish the book but my wife, Linda, reminded me that this was a life that my son never knew.  He was not quite three years old when I left Los Angeles and the music business.
 
