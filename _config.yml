@@ -83,6 +83,12 @@ prose:
           label: "featured?"
           on: "true"
           off: "false"
+      - name: "published"
+        field:
+          element: "button"
+          label: "Published?"
+          on: "true"
+          off: "false"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
