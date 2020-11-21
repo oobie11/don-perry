@@ -1,8 +1,8 @@
 ---
 date: '2019-11-19 20:16 -0700'
 author: Don Perry
-featured: true
-published: false
+featured: false
+published: true
 title: '"WHAT''S FOREVER FOR" Unfulfilled Dream...A Look Back'
 ---
 I have been so fortunate to have spent over 30 years in the music business and am extremely proud of what I was able to accomplish...but truth be told...there is one thing that I was never able to do.  I started out as a singer/songwriter and long after I gave up on that singing career, I still had the desire to write a song that would resonate with the mainstream.  As a young artist...long before I headed for Hollywood to seek fame and fortune...I had an amazing ability to take a great idea and turn it into a mediocre song.  So you can see why I have so much respect for songwriters.
