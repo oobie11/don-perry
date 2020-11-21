@@ -1,8 +1,8 @@
 ---
 date: '2019-07-22 21:10 -0700'
 author: Don Perry
-featured: true
-published: false
+featured: false
+published: true
 title: TAKE THE TIME
 ---
 Early in my career I lived in an upstairs apartment in Hollywood overlooking the beautiful Hollywood Freeway (later that apartment was torn down to expand the freeway).  The front entrance had an external door that led to the downstairs apartment and the stairway to our unit.  Our back door led to another stairway that we exited to the parking lot and our car.  One day I was racing to an appointment and when I got to the car, realized I had forgotten the material I needed to pitch myself for a potential music job.  I raced back to the apartment and heard the front doorbell.  I don't know to this day why I didn't just ignore it and be on my way...but I opened the outer door and looked down the stairs... there, looking up at me, was an elderly African- American woman with the saddest eyes I had ever seen...loaded down with religious literature.  She said to me, "Are you ready for the coming of the Lord?" Annoyed, I said to her: "I'm sorry, I just don't have the time right now".  She shook her head and said: "You better take the time, brother...take the time".
