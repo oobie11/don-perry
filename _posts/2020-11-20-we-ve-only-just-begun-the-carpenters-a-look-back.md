@@ -1,8 +1,8 @@
 ---
 date: '2019-10-24 21:06 -0700'
 author: Don Perry
-featured: true
-published: false
+featured: false
+published: true
 title: 'WE''VE ONLY JUST BEGUN: The Carpenters: A look Back'
 ---
 In October 1970, The Carpenters released "We've Only Just Begun".  The song started as a commercial for Crocker National Bank.  Written by a young Paul Williams and Roger Nichols and sung by Williams, the commercial depicted the marriage of a young couple and their bright future.  Aimed directly at bringing that youth market into the bank for loans, Crocker quickly realized that those young customers lacked collateral for those loans and they suspended the campaign.
