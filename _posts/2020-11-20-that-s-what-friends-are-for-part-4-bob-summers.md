@@ -1,5 +1,5 @@
 ---
-date: '2020-11-20 21:50 -0700'
+date: '2017-10-18 21:50 -0700'
 author: Don Perry
 featured: true
 published: true
@@ -19,4 +19,4 @@ From those early days, Bob was with me every step of the way.  Together we did (
 
 I realized when I finished my book that without Bob, it might have been only 10 pages long!  He was there for me in the beginning and I know if I called him today, he would show up and do it all over again.  That's what friends are for.  Thanks, Bob.
 
-![Bob Summers]({{site.baseurl}}/https://www.google.com/url?sa=i&url=https%3A%2F%2Fsailormoondub.fandom.com%2Fwiki%2FBob_Summers&psig=AOvVaw3VM2qL1_FAEAiBL1kJQZzy&ust=1606020807866000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiv1_Hrku0CFQAAAAAdAAAAABAD)
+![Bob Summers](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsailormoondub.fandom.com%2Fwiki%2FBob_Summers&psig=AOvVaw3VM2qL1_FAEAiBL1kJQZzy&ust=1606020807866000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiv1_Hrku0CFQAAAAAdAAAAABAD)
