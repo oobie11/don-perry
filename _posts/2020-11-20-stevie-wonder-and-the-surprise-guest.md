@@ -5,7 +5,7 @@ featured: true
 published: true
 title: Stevie Wonder and the surprise guest
 ---
-![]({{site.baseurl}}/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixaura.com%2Fstevie-wonder-wednesday%2F&psig=AOvVaw1Oq7bmndBE1uyobwSKtn17&ust=1606021854383000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCAzeTvku0CFQAAAAAdAAAAABAD)
+![]({{site.baseurl}}/https://www.pixaura.com/wp-content/uploads/2019/03/stevie-wonder-wednesday.jpeg)
 In 1973 I received a call from William Morris agent and friend, Jack Stein.  He asked me if I would be willing to co-promote a Stevie Wonder concert in Dallas with a new promoter, Phillip Hall.  I jumped at the chance.  Stevie was arguably the hottest act of the year.  He had already had two #1 hits and would win 3 Grammy Awards that year.  I had already promoted sold out concerts with him in San Jose, Sacramento and Fresno.  The venue in Dallas had over 12,000 seats...a chance to make a good profit.
 
 Stevie's show could run close to two hours so I wasn't too concerned with an opening act.  I asked Phillip to find a hot local group and we could get by with paying a thousand dollars or so.  Before we could do that, Jack called again and pitched a group that Clive Davis had signed to Columbia Records.  They were sky high on them and their first album and wanted the exposure of opening for Stevie on his current tour.  Jack asked what our budget was for an opening act.  When I told him he said that was impossible.  They traveled with 20+ members.
