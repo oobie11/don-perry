@@ -1,5 +1,5 @@
 ---
-date: '2017-06-26 21:56 -0700'
+date: '2017-07-26 21:56 -0700'
 author: Don Perry
 featured: true
 published: true
